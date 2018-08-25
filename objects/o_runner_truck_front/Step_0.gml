@@ -1,0 +1,1 @@
+image_index = o_runner_truck.image_index
