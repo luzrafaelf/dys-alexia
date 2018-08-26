@@ -1,6 +1,6 @@
 # dys-alexia
 
-GAME MAKER PROJECT
+GAME MAKER STUDIO 2 PROJECT (PRO EDITION)
 
 A game for the #gbjam6
 
