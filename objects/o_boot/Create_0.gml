@@ -40,4 +40,6 @@ global.hard_words = ds_list_create()
 
 audio_play_sound(m_title,1,0)
 
+draw_set_font(font_default)
+
 room_goto_next()

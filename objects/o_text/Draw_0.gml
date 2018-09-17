@@ -1,6 +1,5 @@
 draw_sprite(s_text_box,0,80,130)
 draw_set_color(global.c4)
-draw_set_font(font_default)
 draw_set_halign(fa_center)
 
 draw_text(80,126,input)

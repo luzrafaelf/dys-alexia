@@ -19,6 +19,9 @@ for(var i=0; i< array_length_1d(languages); i++){
 			case "iz":
 				s_hydrate_words_izipizi()
 				break;
+			case "ru":
+				s_hydrate_words_ru()
+				break;
 			default: 
 				s_hydrate_words_en()
 				break;

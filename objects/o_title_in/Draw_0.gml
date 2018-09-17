@@ -2,7 +2,6 @@ draw_self()
 
 draw_set_halign(fa_center)
 draw_set_color(global.c1)
-draw_set_font(font_default)
 	
 if(can_show_start){
 	if(show_start){
