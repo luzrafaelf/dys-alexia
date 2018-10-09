@@ -274,7 +274,7 @@
             "Key": "4828bdf6-24dd-49e3-956f-7abfee1e0f9e",
             "Value": {
                 "id": "f5a59281-a823-426e-b1ae-f7246fcd3854",
-                "resourcePath": "fonts\\font_russian\\font_russian.yy",
+                "resourcePath": "fonts\\font_default\\font_default.yy",
                 "resourceType": "GMFont"
             }
         },
@@ -740,14 +740,6 @@
                 "id": "e6e03751-b54b-4fef-adce-9483ef06f029",
                 "resourcePath": "sprites\\s_room_game_over\\s_room_game_over.yy",
                 "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "c5c44bb5-8bde-433f-9ef7-6940011ccfdc",
-            "Value": {
-                "id": "f6c522e2-2284-469c-be16-676745a439e4",
-                "resourcePath": "fonts\\font_default\\font_default.yy",
-                "resourceType": "GMFont"
             }
         },
         {

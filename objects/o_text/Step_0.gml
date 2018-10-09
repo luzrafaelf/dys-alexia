@@ -10,7 +10,7 @@ if(string_length(input) < limit){
 		var _snd_type = choose(snd_type_a,snd_type_b,snd_type_c,snd_type_d,snd_type_e)
 		audio_play_sound(_snd_type,1,0)
 	}
-	input = string_letters(keyboard_string)
+	input = string_replace_all(keyboard_string, " ", "");
 }else{
 	keyboard_string = input
 }

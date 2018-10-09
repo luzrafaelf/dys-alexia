@@ -3,7 +3,6 @@ keyboard_string = ""
 limit = 15
 k_confirm = false
 
-
 //text to fade
 fade = ""
 fade_count = 0

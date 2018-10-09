@@ -42,6 +42,16 @@ switch(_language){
 		ds_map_add(global.texto, "intro_04", "fallen lasst")
 		ds_map_add(global.texto, "press_start", "Drucken Sie die Enter")
 	break;
+	case "ru":
+		ds_map_add(global.texto, "type_to_change", "напечатайте, чтобы изменить")
+		ds_map_add(global.texto, "your_language", "Ваш язык")
+		ds_map_add(global.texto, "intro_00", "Я ненавижу, когда")
+		ds_map_add(global.texto, "intro_01", "мне хочется бегать")
+		ds_map_add(global.texto, "intro_02", "а грузовик")
+		ds_map_add(global.texto, "intro_03", "сбрасывает бочки")
+		ds_map_add(global.texto, "intro_04", "на дорогу")
+		ds_map_add(global.texto, "press_start", "нажмите ENTER")
+	break;
 	default:
 		ds_map_add(global.texto, "type_to_change", "HELLO THERE")
 		ds_map_add(global.texto, "your_language", "NOTHING")

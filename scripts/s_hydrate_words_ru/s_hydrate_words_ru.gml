@@ -1,4 +1,3 @@
-draw_set_font(font_russian)
 ds_list_add( global.easy_words, "мы");
 ds_list_add( global.easy_words, "вы");
 ds_list_add( global.easy_words, "да");
